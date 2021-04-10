@@ -6,7 +6,7 @@ const db = new Database()
 const client = new Discord.Client()
 
 
-const triggerWords = ["doug", "gralha"]
+const triggerWords = ["doug", "gralha", "pimpolho"]
 
 // TODO: add @mentions
 const initialMessages = [
